@@ -1,4 +1,4 @@
-package com.example.telly
+package com.telly.app
 
 import io.flutter.embedding.android.FlutterActivity
 
